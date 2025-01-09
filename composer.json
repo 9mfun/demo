@@ -1,0 +1,15 @@
+{
+    "name": "minga/demo",
+    "autoload": {
+        "psr-4": {
+            "Minga\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mingamm",
+            "email": "2082637830@qq.com"
+        }
+    ],
+    "require": {}
+}
