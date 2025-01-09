@@ -5,6 +5,7 @@
             "Minga\\Demo\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "mingamm",
